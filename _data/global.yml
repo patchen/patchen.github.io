@@ -1,0 +1,14 @@
+# Site Settings
+title: "Patrick Chen"
+description: "Software Developer. Toronto."
+url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
+nav: "true"
+footer_text: 'Based off a theme by Jami Gibbs'
+linkedin: 'chenpat'
+github: 'patchen'
+email: 'pat.chen@mail.utoronto.ca'
+
+# Admin Settings
+admin_name: 'Patrick Chen'
+admin_email: 'pat.chen@mail.utoronto.ca'
+#google_analytics: "UA-9999999-99" # Update with your own tracking ID

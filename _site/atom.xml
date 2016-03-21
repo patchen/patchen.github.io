@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Patrick Chen</title>
+ <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+ <link href="http://127.0.0.1:4000/"/>
+ <updated>2016-03-21T14:06:53-04:00</updated>
+ <id>http://127.0.0.1:4000</id>
+ <author>
+   <name>Patrick Chen</name>
+   <email>pat.chen@mail.utoronto.ca</email>
+ </author>
+
+ 
+ <entry>
+   <title>Lego NXT Robot - Soccer</title>
+   <link href="http://127.0.0.1:4000/development/2016/03/18/robot.html"/>
+   <updated>2016-03-18T17:15:00-04:00</updated>
+   <id>http://127.0.0.1:4000/development/2016/03/18/robot</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Eatz</title>
+   <link href="http://127.0.0.1:4000/development/design/2016/02/20/eatz.html"/>
+   <updated>2016-02-20T10:56:00-05:00</updated>
+   <id>http://127.0.0.1:4000/development/design/2016/02/20/eatz</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TreeMap</title>
+   <link href="http://127.0.0.1:4000/development/2016/02/20/treemap.html"/>
+   <updated>2016-02-20T10:56:00-05:00</updated>
+   <id>http://127.0.0.1:4000/development/2016/02/20/treemap</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Battleship</title>
+   <link href="http://127.0.0.1:4000/development/2016/01/20/battleship.html"/>
+   <updated>2016-01-20T09:15:00-05:00</updated>
+   <id>http://127.0.0.1:4000/development/2016/01/20/battleship</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
