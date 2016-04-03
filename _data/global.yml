@@ -2,8 +2,8 @@
 title: "Patrick Chen"
 description: "Software Developer. Toronto."
 url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
-nav: "true"
-footer_text: 'Based off a theme by Jami Gibbs'
+nav: "false"
+footer_text: 'Based on phantom by Jami Gibbs'
 linkedin: 'chenpat'
 github: 'patchen'
 email: 'pat.chen@mail.utoronto.ca'
