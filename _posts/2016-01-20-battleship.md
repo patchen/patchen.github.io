@@ -9,5 +9,5 @@ featured_image: 'img/posts/battleship.png'
 project_link: 'https://github.com/patchen/battleship'
 button_icon: 'github'
 button_text: 'View Source'
-lead_text: 'A game of Battleship with single player AI or two player mode.'
+lead_text: 'The game of Battleship. Play against the AI in single player mode or with a friend in two player mode.'
 ---
