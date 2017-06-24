@@ -1,4 +1,0 @@
-main:
-    #- { url: '/', text: 'Home' }
-    #- { url: '/#portfolio', text: 'portfolio' }
-    # - { url: '/about', text: 'About' }
